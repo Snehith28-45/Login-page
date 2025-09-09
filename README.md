@@ -1,7 +1,7 @@
 This is a simple **Login Page** project built using HTML, CSS, and basic front-end design principles.  
 The project demonstrates how a basic login form works and can be used as a starting point for larger web applications.
 
-## 🚀 Features (present ideas which is used in this project)
+##  Features (present ideas which is used in this project)
 - Clean and responsive login form  
 - Input fields for username and password  
 - Styled with CSS for a user-friendly interface  
